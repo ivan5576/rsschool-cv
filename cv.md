@@ -8,6 +8,7 @@
 
 Born in Moscow, graduated at MSUH M.A. Sholohova (former Open Pedagogical University) in Moscow, than confirmed a dissertation to Candidate of Philological siences. Worked as serviceman in repair service (fridges, washing machines). Than go to own service, made websites (on WP) and promoted them. Worked in HVAC, especialy with heatpumps for country houses.
 
+Wants to become a JS Developer. Currently based in Kazakhstan, Astana.
 
 ## Contacts
 
