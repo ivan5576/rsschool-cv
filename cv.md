@@ -1,0 +1,22 @@
+# rsschool-cv
+
+### Ivan Lebedev
+
+### Junior Frontend Developer
+
+## About myself
+
+Born in Moscow, graduated at MSUH M.A. Sholohova (former Open Pedagogical University) in Moscow, than confirmed a dissertation to Candidate of Philological siences. Worked as serviceman in repair service (fridges, washing machines). Than go to own service, made websites (on WP) and promoted them. Worked in HVAC, especialy with heatpumps for country houses.
+
+
+## Contacts
+
+* **Phone:** +77471094912
+* **Mail:** ivlebedev1@yandex.ru
+* **Telegram:** @ivan5576
+* **Discord:** @ivan5576
+
+## Languages
+
+* Russian native
+* English B1
