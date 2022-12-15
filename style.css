@@ -47,3 +47,7 @@ body {
   .footer {
     border: 1px solid red;
   }
+  .container {
+    max-width: 1024px;
+    margin: 0 auto;
+  }
