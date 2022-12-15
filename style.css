@@ -51,3 +51,13 @@ body {
     max-width: 1024px;
     margin: 0 auto;
   }
+  .nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+  }
+  .nav-link {
+    padding: 0 40px;
+    line-height: 60px;
+  }
