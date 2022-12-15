@@ -1,0 +1,25 @@
+@font-face {
+    font-family: MajorMonoDisplay;
+    src: url("assets/fonts/MajorMonoDisplay-Regular.ttf");
+    font-weight: 400;
+}
+@font-face {
+    font-family: UbuntuMono;
+    src: url("assets/fonts/UbuntuMono-Regular.ttf");
+    font-weight: 400;
+}
+@font-face {
+    font-family: UbuntuMono;
+    src: url("assets/fonts/UbuntuMono-Bold.ttf");
+    font-weight: 700;
+}
+@font-face {
+    font-family: UbuntuMono;
+    src: url("assets/fonts/UbuntuMono-Italic.ttf");
+    font-weight: 400;
+}
+@font-face {
+    font-family: UbuntuMono;
+    src: url("assets/fonts/UbuntuMono-BoldItalic.ttf");
+    font-weight: 700;
+}
