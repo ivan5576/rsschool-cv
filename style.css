@@ -90,15 +90,7 @@ section {
     }
 }
 
-#contacts-title {
-    text-align: center;
-}
-
-#summary-title {
-    text-align: center;
-}
-
-#english-title {
+.section-title {
     text-align: center;
 }
 
@@ -123,6 +115,22 @@ section {
     color: #ffe4c4;
     background-color: #dc143c;
     padding: 26px 40px;
+}
+
+.contact-link {
+text-decoration: none;
+  color: #dc143c;
+  transition: color .5s;
+}
+
+.contact-link:hover {
+  color: #ffe4c4;
+  background-color: #dc143c;
+  padding: 0px 0px;
+}
+
+ul {
+    padding: 0;
 }
 
 html {
@@ -158,4 +166,12 @@ html {
 
 .div-footer-autor {
     text-align: center;
+}
+
+.courses-list {
+    list-style: none;
+}
+
+.span-contacts {
+    font-weight: 700;
 }
