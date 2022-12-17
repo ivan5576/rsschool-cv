@@ -53,8 +53,8 @@ body {
 .footer {
     background-color: #ffe4c4;
     font-family: MajorMonoDisplay;
-    padding: 0 40px;
-    line-height: 40px;
+    padding: 0 0 25px;
+    line-height: 4px;
     text-align: center;
 }
 
@@ -149,4 +149,13 @@ html {
     text-decoration: none;
     transition: .3s;
     color: #ff0000;
+}
+
+.div-footer-rsschool {
+    text-align: center;
+    padding: 20px;
+}
+
+.div-footer-autor {
+    text-align: center;
 }
