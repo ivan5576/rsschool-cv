@@ -19,4 +19,4 @@ Graduate to JS Developer. Currently based in Georgia, Batumi.
 ## Languages
 
 * Russian native
-* English B1
+* English B1-B2
