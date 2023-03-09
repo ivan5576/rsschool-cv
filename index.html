@@ -17,6 +17,8 @@
                     <li class="nav-item"><a href="#summary-title" class="nav-link">summary</a></li>
                     <li class="nav-item"><a href="#courses-title" class="nav-link">courses</a></li>
                     <li class="nav-item"><a href="#skills-title" class="nav-link">skills</a></li>
+                    <li class="nav-item"><a href="#code-title" class="nav-link">code</a></li>
+                    <li class="nav-item"><a href="#projects-title" class="nav-link">projects</a></li>
                     <li class="nav-item"><a href="#english-title" class="nav-link">english</a></li>
                 </ul>
             </nav>
@@ -36,11 +38,12 @@
             </div>
             <div class="contacts contacts-list">
                 <ul class="contacts-list">
-                    <li class="contacts-item"><span class="span-contacts">Phone:</span> <a href="tel:+77471094912" class="contact-link">+77471094912</a></li>
+                    <li class="contacts-item"><span class="span-contacts">Phone:</span> <a href="tel:+995591019408" class="contact-link">+995591019408</a></li>
                     <li class="contacts-item"><span class="span-contacts">Mail:</span> <a href="mail:ivlebedev1@yandex.ru" class="contact-link">ivlebedev1@yandex.ru</a></li>
                     <li class="contacts-item"><span class="span-contacts">Github:</span> <a href="https://github.com/ivan5576" class="contact-link">@ivan5576</a></li>
                     <li class="contacts-item"><span class="span-contacts">Telegram:</span> <a href="https://t.me/Ivan5576" class="contact-link">@ivan5576</a></li>
-                    <li class="contacts-item"><span class="span-contacts">Discord:</span> Ivan557655#2414</li>
+                    <li class="contacts-item"><span class="span-contacts">Discord:</span> Ivan5576#2414</li>
+                    <li class="contacts-item"><span class="span-contacts"><a href="http://www.linkedin.com/in/ivan-lebedev-7333a7264" class="contact-link">LinkedIn</a></span>
                 </ul>
             </div>
             <div class="summary summary-title" id="summary-title">
@@ -48,7 +51,7 @@
                 </div>
                 <div class="summary summary-text">
                 <p>Born in Moscow, graduated at MSUH M.A. Sholohova (former Open Pedagogical University) in Moscow, than confirmed a dissertation to Candidate of Philological siences. Worked as serviceman in repair service (fridges, washing machines). Than go to own service, made websites (on WP) and promoted them. Worked in HVAC, especialy with heatpumps for country houses.</p>
-                <p>Wants to become a JS Developer. Currently based in Kazakhstan, Astana.</p>
+                <p>Graduate to JS Developer. Currently based in Georgia, Batumi.</p>
             </div>
             <div class="courses courses-title" id="courses-title">
                 <h2 class="div-title">Courses</h2>
@@ -66,14 +69,43 @@
             <div class="skills skills-text">
                 <ul class="skills-list">
                     <li class="skills-item">Adobe Photoshop</li>
-                    <li class="skills-item"><span class="span-skills">Web-development:</span> HTML5, CSS3, JS</li>
+                    <li class="skills-item"><span class="span-skills">Web-development:</span> HTML5, CSS3, JS, SCSS, Webpack, Figma, VS Code</li>
                     <li class="skills-item"><span class="span-skills">Version control:</span> Git, Github</li>
                 </ul>
             </div>
+            <div class="code code-example" id="code-title">
+                <h2 class="code-example-title">Code example</h2>
+            </div>
+            <div class="code code-example-text">
+                <code class="code-cv">
+    <pre>
+  var countBits = function(n) {
+      let reminder = '';
+      let toBinary = 0;
+      let binaryAlphabet = '01';
+
+      for (let i = 0; n !== 0 ; i++) {
+          reminder = n % binaryAlphabet.length;
+          n = Math.trunc(n / binaryAlphabet.length);
+          console.log(reminder);
+          toBinary = reminder + toBinary;
+      };
+      return toBinary;
+  };
+    </pre>
+                </code>
+            </div>
+            <div class="projects" id="projects-title">
+                <h2 class="projects-title">Deployed projects</h2>
+            </div>
+            <ul class="projects projects-list">
+                    <li class="skills-item"><span class="span-skills"><a href="https://rolling-scopes-school.github.io/ivan5576-JSFEPRESCHOOL2022Q4/momentum/" class="contact-link">Momentum</a></span></li>
+                    <li class="skills-item"><span class="span-skills"><a href="https://rolling-scopes-school.github.io/ivan5576-JSFEPRESCHOOL2022Q4/plants/" class="contact-link">Plants</a></span></li>
+            </ul>
             <div class="english english-title" id="english-title">
                 <h2 class="div-title">English level</h2>
-                </div>
-                <div class="english english-text">
+            </div>
+            <div class="english english-text">
                 <p>B1 - Pre-Intermediate</p>
             </div>
         </div>
