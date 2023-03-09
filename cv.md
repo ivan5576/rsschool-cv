@@ -8,14 +8,13 @@
 
 Born in Moscow, graduated at MSUH M.A. Sholohova (former Open Pedagogical University) in Moscow, than confirmed a dissertation to Candidate of Philological siences. Worked as serviceman in repair service (fridges, washing machines). Than go to own service, made websites (on WP) and promoted them. Worked in HVAC, especialy with heatpumps for country houses.
 
-Wants to become a JS Developer. Currently based in Kazakhstan, Astana.
-
+Graduate to JS Developer. Currently based in Georgia, Batumi.
 ## Contacts
 
-* **Phone:** +77471094912
+* **Phone:** +995591019408
 * **Mail:** ivlebedev1@yandex.ru
 * **Telegram:** @ivan5576
-* **Discord:** @ivan5576
+* **Discord:** Ivan5576#2414
 
 ## Languages
 
